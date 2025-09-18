@@ -1,9 +1,8 @@
 # web_app
-Web Application
-João Pedro Domingos Aparecido de Paiva 
-3°ano Desenvolvimento de Sistemas 
-Joaquim de Moura Candelária 
-Eu estou trabalhando de 
-tecnologias utilizadas 
-back end 
-front end 
+Página: Web Application
+Nome: João Pedro Domingos Aparecido de Paiva 
+Curso: Desenvolvimento de Sistemas 
+Escola: Joaquim de Moura Candelária 
+Descrição do Projeto: estou programando uma pagina web para fazer teste de cadastro de usuário e trocas de senhas e login
+Front End: usos utilizados HTML CSS JAVASCRIPT 
+Back End: uso utilizado PHP 
