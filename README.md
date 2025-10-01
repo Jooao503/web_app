@@ -13,3 +13,5 @@ Descrição do Projeto: estou programando uma pagina web para fazer teste de cad
 Front End: usos utilizados HTML CSS JAVASCRIPT 
 
 Back End: uso utilizado PHP 
+
+Tecnologias: Visual Studio Code, Bootstrap, Boxicons, Xampp Control Panel
