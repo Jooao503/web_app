@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 20px auto;
+  background: #f0f4f8; /* fundo claro azulado */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+input {
+  display: block;
+  margin: 8px 0;
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease;
+}
+
+input:focus {
+  border-color: #4a90e2; /* azul vivo no foco */
+  outline: none;
+  box-shadow: 0 0 5px #4a90e2;
+}
+
+button {
+  padding: 10px 16px;
+  background-color: #4a90e2; /* azul */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #357abd; /* azul mais escuro no hover */
+}
+
+#mensagem {
+  margin-top: 15px;
+  color: #28a745; /* verde vibrante */
+  font-weight: bold;
+}
+
+#erro {
+  margin-top: 15px;
+  color: #dc3545; /* vermelho vibrante */
+  font-weight: bold;
+}
